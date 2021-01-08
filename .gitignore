@@ -1,0 +1,5 @@
+creds.json
+*.mp3
+*.wav
+*.ogg
+vendor
